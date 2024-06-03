@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Recallio.Mediatr</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="7.1.0" />
+      <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+      <PackageReference Include="MediatR" Version="12.2.0" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Recallio.Auth\Recallio.Auth.csproj" />
+      <ProjectReference Include="..\Recallio.Const\Recallio.Const.csproj" />
+      <ProjectReference Include="..\Recallio.Domain\Recallio.Domain.csproj" />
+      <ProjectReference Include="..\Recallio.Interfaces\Recallio.Interfaces.csproj" />
+      <ProjectReference Include="..\Recallio.Kernel\Recallio.Kernel.csproj" />
+      <ProjectReference Include="..\Recallio.Models\Recallio.Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Auth\" />
+    </ItemGroup>
+
+</Project>

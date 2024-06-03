@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hVJc4FO2hQ=",
+  "success": true,
+  "projectFilePath": "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/Recallio.Kernel.csproj",
+  "expectedPackageFiles": [
+    "/Users/oleksandrmartynin/.nuget/packages/microsoft.netcore.app.ref/8.0.4/microsoft.netcore.app.ref.8.0.4.nupkg.sha512",
+    "/Users/oleksandrmartynin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

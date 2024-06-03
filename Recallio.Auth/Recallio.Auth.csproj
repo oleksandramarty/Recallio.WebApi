@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Recallio.Auth</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Recallio.Const\Recallio.Const.csproj" />
+      <ProjectReference Include="..\Recallio.Domain\Recallio.Domain.csproj" />
+      <ProjectReference Include="..\Recallio.Interfaces\Recallio.Interfaces.csproj" />
+      <ProjectReference Include="..\Recallio.Kernel\Recallio.Kernel.csproj" />
+      <ProjectReference Include="..\Recallio.Models\Recallio.Models.csproj" />
+    </ItemGroup>
+
+</Project>

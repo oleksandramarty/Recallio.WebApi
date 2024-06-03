@@ -1,0 +1,16 @@
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/bin/Debug/net8.0/Recallio.Kernel.deps.json
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/bin/Debug/net8.0/Recallio.Kernel.dll
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/bin/Debug/net8.0/Recallio.Kernel.pdb
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/bin/Debug/net8.0/Recallio.Const.dll
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/bin/Debug/net8.0/Recallio.Const.pdb
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.csproj.AssemblyReference.cache
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.AssemblyInfoInputs.cache
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.AssemblyInfo.cs
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.csproj.CoreCompileInputs.cache
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.sourcelink.json
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.0B933086.Up2Date
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.dll
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/refint/Recallio.Kernel.dll
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/Recallio.Kernel.pdb
+/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/Debug/net8.0/ref/Recallio.Kernel.dll

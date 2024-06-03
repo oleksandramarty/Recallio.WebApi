@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Recallio.Const/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Recallio.Const.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recallio.Const.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recallio.Const/1.0.0": {
+      "type": "project",
+      "path": "../Recallio.Const/Recallio.Const.csproj",
+      "msbuildProject": "../Recallio.Const/Recallio.Const.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Recallio.Const >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/oleksandrmartynin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/Recallio.Kernel.csproj",
+      "projectName": "Recallio.Kernel",
+      "projectPath": "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/Recallio.Kernel.csproj",
+      "packagesPath": "/Users/oleksandrmartynin/.nuget/packages/",
+      "outputPath": "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Kernel/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/oleksandrmartynin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Const/Recallio.Const.csproj": {
+              "projectPath": "/Users/oleksandrmartynin/Documents/GitHub/Recallio.WebApi/Recallio.Const/Recallio.Const.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.4, 8.0.4]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.4, 8.0.4]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100-preview.4.24267.66/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

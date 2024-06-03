@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jarUOQr2AwcdEY8kmZorLZuYJDLps4uEZe7OK+2HKDo=",
+  "Source": "Recallio.ClientApi",
+  "BasePath": "_content/Recallio.ClientApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
